@@ -1,0 +1,8 @@
+# Ignore certificate and key files
+*.key
+*.cer
+*.crt
+*.pfx
+*.pem
+.acme.sh/
+.secrets/
