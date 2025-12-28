@@ -6,3 +6,6 @@
 *.pem
 .acme.sh/
 .secrets/
+
+# VSCode settings
+.vscode/
